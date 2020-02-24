@@ -1,0 +1,11 @@
+{
+  "name": "basta-spring-2020-web-components",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "browser-sync start --server src --files src --no-open"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
